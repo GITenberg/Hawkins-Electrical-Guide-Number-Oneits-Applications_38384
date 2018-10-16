@@ -27,6 +27,7 @@ rights_url: http://creativecommons.org/about/pdm
 subjects:
 - !lcsh 'Electrical engineering -- Handbooks, manuals, etc.'
 - !lcc 'TK'
+- GITenberg
 title: "Hawkins Electrical Guide v. 01 (of 10)\r\nQuestions, Answers, & Illustrations,\
   \ A progressive course of study for engineers, electricians, students and those\
   \ desiring to acquire a working knowledge of electricity and its applications"
